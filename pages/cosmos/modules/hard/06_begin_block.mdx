@@ -1,0 +1,18 @@
+import Main from 'components/Main';
+
+
+
+
+# Begin Block
+
+At the start of each block interest is accumulated
+
+```go
+// BeginBlocker updates interest rates
+func BeginBlocker(ctx sdk.Context, k Keeper) {
+  k.ApplyInterestRateUpdates(ctx)
+}
+```
+
+
+export default ({children}) => <Main>{children}</Main>

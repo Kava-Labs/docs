@@ -4,10 +4,7 @@
 /node_modules
 /.pnp
 .pnp.js
-/pages/modules
-/pages/tools
-/pages/building
-/pages/cosmos/modules
+
 # testing
 /coverage
 

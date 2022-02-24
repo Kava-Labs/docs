@@ -3,12 +3,8 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "predev": "node middleware/pre.js",
     "dev": "next dev",
-    "postdev": "node middleware/post.js",
-    "prebuild": "node middleware/pre.js",
     "build": "next build",
-    "postbuild": "node middleware/post.js",
     "start": "next start",
     "lint": "next lint"
   },
