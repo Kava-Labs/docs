@@ -11,7 +11,7 @@ To access Kava EVM, you'll first need to add Kava's network configuration in Met
 - Network Name: Localhost 8545
 - New RPC URL: http://localhost:8545
 - Chain ID: 8888
-- Currency Symbol: Gas
+- Currency Symbol: KAVA
 
 <img src="https://user-images.githubusercontent.com/15370712/153627170-5715ece7-b3ea-4d26-b9b3-954bcc5660a4.png" width="485" height="391">
 
